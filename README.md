@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **MERN project. (Preferably backend)**
 
-- 🤝 I’m passionate with **Backend Engineering.**
+- 🤝 I’m passionate about **Backend Engineering.**
 
-- 📝 I write articles on [https://abhisekh.in](https://abhisekh.in)
+- 📝 I write articles on [abhisekh.in](https://abhisekh.in)
 
 - 💬 Ask me about **React, Node, Express, REST API, RPA and System Design.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/abhis3kh**
+- 📫 How to reach me at **[Linkedin](https://www.linkedin.com/in/abhis3kh)**
 
 - ⚡ Fun fact **I am a backend developer who knows CSS :> which makes me Full Stack Engineer.**
 
