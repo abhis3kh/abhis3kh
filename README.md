@@ -9,7 +9,7 @@
 
 - 🤝 I’m passionate about **Backend Engineering.**
 
-- 📝 I write articles on [abhisekh.in](https://abhisekh.in)
+- 📝 I write articles on **[Blog](https://abhisekh.in)**
 
 - 💬 Ask me about **React, Node, Express, REST API, RPA and System Design.**
 
