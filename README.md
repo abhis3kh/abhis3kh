@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React 18 and OOP in JavaScript.**
 
-- 👯 I’m looking to collaborate on **MERN project. (Preferably backend)**
+- 👯 I’m looking to collaborate on **MERN project.**
 
 - 🤝 I’m passionate about **Backend Engineering.**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me at **[Linkedin](https://www.linkedin.com/in/abhis3kh)**
 
-- ⚡ Fun fact **I am a backend developer who knows CSS :> which makes me Full Stack Engineer.**
+- ⚡ Fun fact **I am a backend developer who knows CSS :> which makes me Full Stack Engineer. ;) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
