@@ -1,32 +1,120 @@
-![MasterHead](https://camo.githubusercontent.com/ce3a4e7a6ec90f401d6dfd4865da0cc60f0647ee1dec12eb62550e489346f825/68747470733a2f2f7777772e636f6465636f726e6572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966)
-<h1 align="center">Hi 👋, I'm Abhisekh</h1>
-<h3 align="center"> an RPA Dev at Job & MERN Dev at Free hours</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
 
-- 🌱 I’m currently learning **React 18 and OOP in JavaScript.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Caveat&amp;size=52&amp;duration=3000&amp;pause=1000&amp;color=E6EDF3&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=90&amp;lines=hey%2C+I%27m+Abhisekh;automation+meets+code" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Caveat&amp;size=52&amp;duration=3000&amp;pause=1000&amp;color=1A1A2E&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=90&amp;lines=hey%2C+I%27m+Abhisekh;automation+meets+code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&amp;size=52&amp;duration=3000&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=90&amp;lines=hey%2C+I%27m+Abhisekh;automation+meets+code" width="650" height="90" alt="Hi, I'm Abhisekh Mukherjee — automation meets code." />
+</picture>
 
-- 👯 I’m looking to collaborate on **MERN project.**
+<p><strong>Software Engineer · Automation · MERN stack · backend enthusiast</strong></p>
 
-- 🤝 I’m passionate about **Backend Engineering.**
-
-- 📝 I write articles on **[Blog](https://abhisekh.in)**
-
-- 💬 Ask me about **React, Node, Express, REST API, RPA and System Design.**
-
-- 📫 How to reach me at **[Linkedin](https://www.linkedin.com/in/abhis3kh)**
-
-- ⚡ Fun fact **I am a backend developer who knows CSS :> which makes me Full Stack Engineer. ;) **
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abhisekh101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhisekh101" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhis3kh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhis3kh" height="30" width="40" /></a>
-<a href="https://hashnode.com/@abhisekh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@abhisekh" height="30" width="40" /></a>
+<p>
+  <a href="https://abhisekh.in">website &amp; writing</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/abhis3kh">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/abhis3kh?tab=repositories">all repositories</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhis3kh&show_icons=true&locale=en" alt="abhis3kh" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhis3kh&" alt="abhis3kh" /></p>
+```text
+╭─────────────────────────────────────────────────────╮
+│  Automating everyday work. Connecting APIs.          │
+│  Building useful applications.   │
+╰─────────────────────────────────────────────────────╯
+```
+
+I'm a software engineer with a background in Automation development(E2E) and a strong interest in backend engineering. Outside work, I build web applications and explore ideas through hands-on projects.
+
+---
+
+### stack
+
+| Area | Technologies & focus |
+| :--- | :--- |
+| **frontend** | React · Next.js · JavaScript · TypeScript · Tailwind CSS |
+| **backend** | Node.js · Express · REST APIs |
+| **data** | MongoDB · MySQL · Firebase |
+| **automation** | Python · Blue Prism · Power Apps |
+| **tools & platforms** | Git · Linux · Postman · AWS |
+
+---
+
+### projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/abhis3kh/MacroTracker">MacroTrack</a></h3>
+      <p><code>Next.js · TypeScript · Tailwind CSS · MongoDB</code></p>
+      <p>A nutrition tracker for logging meals, tracking calories and macros, and reviewing daily, weekly, and monthly progress.</p>
+      <p><a href="https://github.com/abhis3kh/MacroTracker">Explore the repository →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/abhis3kh/solo-levelling">Ascension System</a></h3>
+      <p><code>React · Vite · Node.js · Express</code></p>
+      <p>A quest-based goal tracker with saved profiles, custom quests, streaks, and stat progression to make daily habits more engaging.</p>
+      <p><a href="https://github.com/abhis3kh/solo-levelling">Explore the repository →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/abhis3kh/Quizzer">Quizzer</a></h3>
+      <p><code>React · Node.js · Express · Material UI · Chart.js</code></p>
+      <p>A quiz application for creating quizzes from JSON, answering questions, and reviewing scores, time taken, and attempt history.</p>
+      <p><a href="https://github.com/abhis3kh/Quizzer">Explore the repository →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/abhis3kh/housing-marketplace">Housing Marketplace</a></h3>
+      <p><code>React · Firebase · Leaflet</code></p>
+      <p>A property marketplace for browsing and managing listings, with account sign-in and maps for exploring locations.</p>
+      <p><a href="https://github.com/abhis3kh/housing-marketplace">Explore the repository →</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=abhis3kh&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=A5B4FC&amp;text_color=CBD5E1&amp;icon_color=A5B4FC" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=abhis3kh&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=4F46E5&amp;text_color=4B5563&amp;icon_color=6366F1" />
+  <img src="https://github-stats-extended.vercel.app/api?username=abhis3kh&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=4F46E5&amp;text_color=4B5563&amp;icon_color=6366F1" height="165" alt="Abhisekh's public GitHub activity statistics" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abhis3kh&amp;hide_border=true&amp;background=00000000&amp;ring=A5B4FC&amp;fire=F59E0B&amp;currStreakLabel=A5B4FC&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;sideLabels=CBD5E1&amp;dates=94A3B8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=abhis3kh&amp;hide_border=true&amp;background=00000000&amp;ring=6366F1&amp;fire=F59E0B&amp;currStreakLabel=4F46E5&amp;currStreakNum=1A1A2E&amp;sideNums=1A1A2E&amp;sideLabels=4B5563&amp;dates=6B7280" />
+  <img src="https://streak-stats.demolab.com?user=abhis3kh&amp;hide_border=true&amp;background=FFFFFF&amp;ring=6366F1&amp;fire=F59E0B&amp;currStreakLabel=4F46E5&amp;currStreakNum=1A1A2E&amp;sideNums=1A1A2E&amp;sideLabels=4B5563&amp;dates=6B7280" height="165" alt="Abhisekh's GitHub contribution streak" />
+</picture>
+
+<p><a href="https://github.com/abhis3kh?tab=overview">View my contribution activity on GitHub →</a></p>
+
+</div>
+
+---
+
+### find me
+
+<div align="center">
+
+<p>Let's talk backend engineering, automation, or your next MERN project.</p>
+
+<a href="https://www.linkedin.com/in/abhis3kh">
+  <img src="https://img.shields.io/badge/LinkedIn-1A1A2E?style=for-the-badge" alt="Connect with Abhisekh on LinkedIn" />
+</a>
+&nbsp;
+<a href="https://abhisekh.in">
+  <img src="https://img.shields.io/badge/Website_%26_Blog-1A1A2E?style=for-the-badge" alt="Visit Abhisekh's website and blog" />
+</a>
+&nbsp;
+<a href="https://github.com/abhis3kh">
+  <img src="https://img.shields.io/badge/GitHub-1A1A2E?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Follow abhis3kh on GitHub" />
+</a>
+
+</div>
