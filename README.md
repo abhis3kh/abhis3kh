@@ -12,8 +12,6 @@
   <a href="https://www.abhisekh.in">website &amp; writing</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/abhis3kh">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/abhis3kh?tab=repositories">all repositories</a>
 </p>
 
 </div>
