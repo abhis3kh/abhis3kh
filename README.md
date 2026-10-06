@@ -6,10 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&amp;size=52&amp;duration=3000&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=90&amp;lines=hey%2C+I%27m+Abhisekh;automation+meets+code" width="650" height="90" alt="Hi, I'm Abhisekh Mukherjee — automation meets code." />
 </picture>
 
-<p><strong>Software Engineer · Automation · MERN stack · backend enthusiast</strong></p>
+<p><strong>Software Engineer · Automation · backend · MERN stack </strong></p>
 
 <p>
-  <a href="https://abhisekh.in">website &amp; writing</a>
+  <a href="https://www.abhisekh.in">website &amp; writing</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/abhis3kh">LinkedIn</a>
   &nbsp;·&nbsp;
@@ -22,8 +22,8 @@
 
 ```text
 ╭─────────────────────────────────────────────────────╮
-│  Automating everyday work. Connecting APIs.          │
-│  Building useful applications.   │
+│  Automating everyday work. Connecting APIs.         │
+│  Building useful applications.                      │
 ╰─────────────────────────────────────────────────────╯
 ```
 
@@ -35,10 +35,10 @@ I'm a software engineer with a background in Automation development(E2E) and a s
 
 | Area | Technologies & focus |
 | :--- | :--- |
-| **frontend** | React · Next.js · JavaScript · TypeScript · Tailwind CSS |
+| **frontend** | React · Next.js · JavaScript · TypeScript
 | **backend** | Node.js · Express · REST APIs |
 | **data** | MongoDB · MySQL · Firebase |
-| **automation** | Python · Blue Prism · Power Apps |
+| **automation** | Python · Blue Prism · Power Apps * playwright |
 | **tools & platforms** | Git · Linux · Postman · AWS |
 
 ---
