@@ -11,7 +11,7 @@
 <p>
   <a href="https://www.abhisekh.in">website &amp; writing</a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/abhis3kh">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/abhis3kh">linkedIn</a>
 </p>
 
 </div>
