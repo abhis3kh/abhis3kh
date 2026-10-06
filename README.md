@@ -21,10 +21,10 @@
 ---
 
 ```text
-╭─────────────────────────────────────────────────────╮
-│  Automating everyday work. Connecting APIs.         │
-│  Building useful applications.                      │
-╰─────────────────────────────────────────────────────╯
+                                                                                                                ╭─────────────────────────────────────────────────────╮
+                                                                                                                │  Automating everyday work. Connecting Systems       │
+                                                                                                                │  Building useful applications.                      │
+                                                                                                                ╰─────────────────────────────────────────────────────╯
 ```
 
 I'm a software engineer with a background in Automation development(E2E) and a strong interest in backend engineering. Outside work, I build web applications and explore ideas through hands-on projects.
