@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Caveat&amp;size=52&amp;duration=3000&amp;pause=1000&amp;color=E6EDF3&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=90&amp;lines=hey%2C+I%27m+Abhisekh;automation+meets+code" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Caveat&amp;size=52&amp;duration=3000&amp;pause=1000&amp;color=1A1A2E&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=90&amp;lines=hey%2C+I%27m+Abhisekh;automation+meets+code" />
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&amp;size=52&amp;duration=3000&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=90&amp;lines=hey%2C+I%27m+Abhisekh;automation+meets+code" width="650" height="90" alt="Hi, I'm Abhisekh Mukherjee — automation meets code." />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&amp;size=52&amp;duration=3000&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=90&amp;lines=hey%2C+I%27m+Abhisekh;building+scalable+sytems;visit+abhisekh.in+for+more+info" width="650" height="90" alt="Hi, I'm Abhisekh Mukherjee — automation meets code." />
 </picture>
 
 <p><strong>Software Engineer · Automation · backend · MERN stack </strong></p>
